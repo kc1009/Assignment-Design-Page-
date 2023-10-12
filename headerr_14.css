@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    background-position: center;
+    background-size: cover;
+    background-color: #3b2694;
+    border: yellow solid 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    height: 10px;
+    width: 70%;
+    /* border: rgba(0, 128, 0, 0.678) solid 4px; */
+    border-radius: 3px;
+    margin: 30px 0px;
+    margin-left: 100px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+   
+}
+.header-text{
+    padding-left: 600px;
+    margin: 20px;
+}
+.header-text{
+    color:#fff;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+.header-text2{
+    color: #fff;
+    width: 80px;
+    background-color: #e63946;
+    border-radius: 1.5em;
+    
+}
+.text-wrapper{
+    
+    color: #fff;
+    float:  left;
+    width: 300px;
+    margin: 100px auto 0 150px; 
+    padding: 0;
+    font-size: 20px;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+
+.text-btn {
+   
+    width: 100px;
+    background-color: #e63946;
+    border: 2px solid #e63946;
+    border-radius: 1.5em;
+    color: #fff;
+}
+.sign-up-frm{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+     padding: 25px;
+     margin: 5% 20% 5% 50%;  
+    text-align: center;
+   
+
+ }
+ .sign-up-frm-h1{
+    color: #1c8adb;
+    margin-bottom: 30px;
+ }
+ .input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid;
+    outline: none;
+ }
+ 
+  button{
+    width: 100%;
+    height: 40px;
+   border: 1px solid #3498db;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+    display: block;
+    font-size: 16px;
+ }
+ .signup-btn{
+    background-color: #3b2694;
+ }
+ .twitter-btn{
+    background-color: #1c8adb;
+ }
+
+hr{
+    margin-top: 20px;
+    width: 80%;
+}
+.or{
+    background: #fff;
+    width: 40px;
+    margin: -19px auto 10px;
+}
+.a{
+    color: light rgba(0, 128, 0, 0.678);
+}
